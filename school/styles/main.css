@@ -1,0 +1,15 @@
+﻿#mynav{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+}
+
+#body_writing{
+	margin-top:70px;
+}
+
+.w3-container{
+	margin-left:40px;
+	margin-right:40px;
+}
