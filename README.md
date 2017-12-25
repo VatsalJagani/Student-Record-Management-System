@@ -46,15 +46,15 @@ Contact No. : +91 83479 19730
 -> Use latest browser (Chrome gives you optimal performance of the system).
 -> Use software in computer full screen browser for better experience.
 
-### Backup your data and use on multiple computer with same students records with simple steps
+## Backup your data and use on multiple computer with same students records with simple steps
 
-#### Backup your Data
+### Backup your Data
 In xampp window click on admin button against MySQL module.
 From right pane select 'student_db'.
 Click Export from navigation.
 Just click 'Go'.
 
-#### Recover your Data
+### Recover your Data
 In xampp window click on admin button against MySQL module.
 From right pane select 'student_db'.
 You will see red 'DROP' button click one by one and conform it.
