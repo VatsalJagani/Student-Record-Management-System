@@ -1,10 +1,11 @@
 # Student Record Management System
 ####                 for Pri. Schools
-##### (very helpful for gov. pri. schools)
 
 ## Author :
 Vatsal Jagani
+
 Email : vatsaljagani85@gmail.com
+
 Contact No. : +91 83479 19730
 
 
