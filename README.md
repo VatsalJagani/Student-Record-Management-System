@@ -4,10 +4,6 @@
 ## Author :
 Vatsal Jagani
 
-Email : vatsaljagani85@gmail.com
-
-Contact No. : +91 83479 19730
-
 
 ## Manual
 -> Install xampp server (Download online latest version)
